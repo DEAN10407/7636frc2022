@@ -18,6 +18,6 @@ git commit -m 'deploy'
 # 部署到遠端 repo，分支為 gh-pages
 # 將 dist 資料夾中的內容推送至遠端 repo 的 gh-pages 分支中，並無條件強制地將舊有的內容取代成目前的內容（git push -f)
 # git push -f https://github.com/FRC7636Robomania/FRC7636.git master:gh-pages
-git push -f https://github.com/FRC7636Robomania/FRC7636.git master:gh-pages
+git push -f https://github.com/DEAN10407/7636frc2022.git master:gh-pages
 cd -
 read -n 1 -p "Press any key to continue..."

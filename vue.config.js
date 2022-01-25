@@ -1,4 +1,4 @@
-const publicPath = process.env.NODE_ENV === 'production' ? '/FRC7636/' : '/'
+const publicPath = process.env.NODE_ENV === 'production' ? '/7636frc2022/' : '/'
 
 
 module.exports = {

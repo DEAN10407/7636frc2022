@@ -1,0 +1,40 @@
+@import "@/assets/scss/index.scss";
+
+//Mentor Page
+.descript {
+    font-size: 5vmin;
+}
+
+//FIRST Page
+.inside {
+    background-color: #a3a3a3;
+    width: 100%;    
+}
+
+.contentSize {
+    font-size: 3vmin;
+}
+
+//Leader Page
+.title{
+    font-size: 12vmax;
+    font-weight: bold;
+    color: black;
+}
+.content{
+    font-size: 4vmin;
+    color: black;
+}
+
+//Team7636 Page
+.contentSize {
+    color: black;
+    font-size: 2vmin;
+}
+
+.description {
+    font-size: 5vmin;
+    color: black;
+    font-weight: bold; 
+    font-style: italic;
+}

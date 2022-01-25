@@ -1,0 +1,55 @@
+@import "@/assets/scss/index.scss";
+
+#footerSponsor {
+    height: auto;
+    width: 100%;
+    background-color: $main-color;
+    
+    .sponsorsLogo {
+        width: 40%;
+    }
+}
+
+#frclogo {
+    display: flex;
+    justify-content: center;
+
+    img {
+        width: 70%;
+        margin-bottom: 5px;
+    }
+}
+
+#footerMenu {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 5vh;
+
+    .title {
+        font-weight: bold;
+        color: white;
+    }
+
+    hr {
+        margin-right: auto;
+        margin-left: auto;
+        margin-bottom: 4vw;
+        width: 150px;
+    }
+
+    .no-underline {
+        text-decoration: none;
+    }
+}
+
+.contact {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    
+    p {
+        font-weight: bold;
+        margin-bottom: 0px;
+    }
+}

@@ -1,0 +1,24 @@
+$main-color: #002a5c;
+$text-color: white;
+
+.container {
+    height: 100%;
+    width: 100%;
+    padding: 0px;
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    justify-content: center;
+}
+
+.fontImg {
+    color: white;
+    font-size: 8vmin;
+    font-weight: bold;
+    text-align: center;
+}
+
+.box {
+    background-color: #fafafa;
+    padding: 6.5vw;
+}
